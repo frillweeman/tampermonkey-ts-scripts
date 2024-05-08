@@ -13,6 +13,6 @@ Run `npm run build` to build all scripts. They will be added to the `dist` direc
 
 ## Using
 
-1. Copy the generated `dist/<script-name.js>` file content into a new Tampermonkey script and save it.
+1. Copy the generated `dist/<script-name.js>` file content into a new [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) script and save it.
 2. Configure any constants using the `CONFIG` object in each script.
 3. Configure different `@match` rules if necessary.
